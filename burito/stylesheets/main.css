@@ -1,0 +1,71 @@
+.about {
+    margin-bottom: 10em;
+}
+
+.ceremony {
+    padding-bottom: 0;
+}
+
+.ceremony #google-map-1 {
+    margin-top: 1em;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+#accomodation {
+    margin-top: 1em;
+    padding-bottom: 4em;
+}
+
+input[type="text"].youtube-link {
+    width: 98%;
+}
+
+#gift p {
+    padding-top: 1em;
+}
+
+h3.rsvp-name {
+    font-weight: bold;
+}
+h4.flash-text {
+    color: white;
+}
+
+#google-map-1 {
+    height: 20em;
+}
+
+.verse {
+    margin-top: 15px;
+    font: 31px/32px "Great Vibes", Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: #0E1F00;
+}
+
+.image>img{
+    max-height: 200px;
+}
+
+.header .images .us1 {
+    background-image: url(../../images/fatorzs.JPG);
+    background-position: -128px -65px;
+}
+.header .images .us2 {
+    background-image: url(../../images/fuben.JPG);
+    background-position: -128px -45px;
+}
+.header .images .us3 {
+    background-image: url(../../images/vizeses.jpg);
+    background-position: 0px 0px;    
+}
+.header .images .us4 {
+    background-image: url(../../images/barlang.jpg);
+    background-position: -120px -40px;
+}
