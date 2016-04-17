@@ -69,3 +69,11 @@ h4.flash-text {
     background-image: url(../../images/barlang.jpg);
     background-position: -120px -40px;
 }
+
+.savethedate {
+    background-image: url('../../images/reszletek.jpg');
+    height: 380px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
