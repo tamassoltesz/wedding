@@ -71,11 +71,16 @@ h4.flash-text {
 }
 
 .savethedate {
-    background-image: url('../../images/reszletek.jpg');
     height: 380px;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
+    align-content: center;
+}
+
+.savethedate > ul {
+    list-style: none;
+    margin-left: 42%;
 }
 
 .aboutus > a > div {
